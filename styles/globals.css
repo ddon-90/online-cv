@@ -14,7 +14,7 @@ body {
 .container {
   max-width: 1000px;
   height: auto;
-  padding: 10;
+  padding: 10px;
 }
 
 h1, h2 {
@@ -51,4 +51,10 @@ li.experience {
   justify-content: space-between;
   align-items: center;
   height: 25px;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
 }
