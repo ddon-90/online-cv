@@ -88,13 +88,13 @@ const Home = () => {
       <Section title="Education">
         <ul>
           <li>
-            <strong>Bachelor of Computer Science</strong> at Ca' Foscari University of Venice
+            <strong>Bachelor of Computer Science</strong> at Ca&#39; Foscari University of Venice
           </li>
           <li>
-            <strong>Freelance professional qualification as "Electronics and Telecommunications Industrial Engineer”</strong> at State Industrial and Technical Institute "A. PACINOTTI"
+            <strong>Freelance professional qualification as &#34;Electronics and Telecommunications Industrial Engineer&#34;</strong> at State Industrial and Technical Institute &#34;A. PACINOTTI&#34;
           </li>
           <li>
-            <strong>Technical Diploma in Industrial Engineering - Field of study Electronics and Telecommunications</strong> at State Industrial and Technical Institute “A. RIGHI”
+            <strong>Technical Diploma in Industrial Engineering - Field of study Electronics and Telecommunications</strong> at State Industrial and Technical Institute &#34;A. RIGHI&#34;
           </li>
         </ul>
       </Section>
