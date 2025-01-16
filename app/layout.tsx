@@ -1,3 +1,5 @@
+import { SpeedInsights } from "@vercel/speed-insights/next";
+
 import '../styles/globals.css';
 
 export const metadata = {
@@ -12,6 +14,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <div className="container">
           {children}
         </div>
+        <SpeedInsights />
       </body>
     </html>
   );
