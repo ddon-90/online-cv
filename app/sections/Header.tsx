@@ -25,6 +25,7 @@ const Header = () => {
           alt="Circular Image"
           width={300}
           height={300}
+          priority={true}
         />
       </div>
     </header>
